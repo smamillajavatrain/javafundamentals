@@ -19,6 +19,7 @@ public class ArithmaticOperatorDemo {
 		System.out.println("multiplication of two numbers is "+(a*b));
 		System.out.println("division of two numbers is "+(a/b));
 		System.out.println("reminder of two numbers is "+(a%b));
+		System.out.println("Addition of two numbers is "+(a+b));
 	}
 
 }
